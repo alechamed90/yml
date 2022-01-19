@@ -1,2 +1,7 @@
 product:
   product-name: Zapatillas de Deporte en Test
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
