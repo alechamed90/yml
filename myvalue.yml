@@ -1,2 +1,7 @@
 product:
   product-name: Zapatillas de Deporte
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
