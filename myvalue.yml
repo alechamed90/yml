@@ -1,6 +1,9 @@
 product:
   product-name: Zapatillas de Deporte
 management:
+  endpoint:
+    refresh:
+      enabled: true
   endpoints:
     web:
       exposure:
